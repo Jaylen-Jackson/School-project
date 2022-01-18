@@ -1,0 +1,16 @@
+body
+{
+    background-color: chartreuse;
+    text-align: center;
+}
+.mynavbar
+{
+    position: sticky;
+    top: 0;
+    z-index: 99999;
+}
+img
+{
+    height: 240px;
+    width: 290px
+}
